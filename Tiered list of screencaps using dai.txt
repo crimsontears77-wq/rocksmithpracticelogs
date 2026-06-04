@@ -1,0 +1,75 @@
+Tiered list of screencaps using daily stat format (total playtime stat indicates new benchmark)
+
+Start date march 22, 2k16
+
+June 21, 2k18
+total playtime 365:09
+2 of 4776 tracks @ 100%+
+overall mastery 52.56%
+4568 song playthroughs
+overall accuracy 84.46%
+
+July 11, 2k18
+total playtime 403:45
+3 of 4776 tracks @ 100%+
+overall mastery 55.26%
+5165 song playthroughs 
+overall accuracy 84.11%
+
+Nov 2, 2k18
+total playtime 502:40
+3 of 4776 tracks @ 100%+
+overall mastery 60.35%
+6327 song playthroughs 
+overall accuracy 84.19%
+
+March 21, 2k21
+total playtime 1001:53
+68 of 4776 tracks @ 100%
+overall mastery 75.05%
+12322 song playthroughs 
+overall accuracy 88.81%
+
+June 10, 2k22
+total playtime 2001:00
+132 of 4776 tracks @ 100%+
+overall mastery 80.84%
+22653 song playthroughs
+overall accuracy 90.84%
+
+Date unknown: Cannot be inferred from file name
+total playtime 2500:04
+161 of 4776 tracks @ 100%+
+overall mastery 86.72%
+27918 song playthroughs
+overall accuracy 91.77%
+
+July 13, 2k23
+total playtime 3000:01
+180 of 4776 tracks @ 100%+
+overall mastery 87.19%
+31461 song playthroughs 
+overall accuracy 91.65%
+
+Feb 21, 2k24
+total playtime 4000:04
+247 of 4776 tracks @ 100%+
+overall mastery 92.27%
+40514 song playthroughs 
+overall accuracy 93.36%
+
+Nov 22, 2k24
+total playtime 5000:01
+1979 tracks of 4776 @ 100%+
+overall mastery 92.27%
+54390 song playthroughs 
+overall accuracy 94.12%
+
+Nov 22, 2k25
+total playtime 6000:00
+3299 tracks of 4776 @ 100%+
+overall mastery 98.75%
+68717 song playthroughs
+overall accuracy 94.44%
+
+
